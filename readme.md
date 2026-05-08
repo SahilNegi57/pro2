@@ -1,2 +1,2 @@
-# this is just a smaple 
+# this is just a sample 
 this project was created from local system
