@@ -1,0 +1,9 @@
+#box{
+    border: solid red 2px;
+    width: 250px;
+    height: 200px;
+    background-color: pink;
+    color:blue;
+    padding: 10px;
+}
+
